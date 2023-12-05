@@ -21,3 +21,8 @@
 **Puzzle 1**: Done
 
 **Puzzle 2**: Done
+
+### Day 5
+**Puzzle 1**: Done
+
+**Puzzle 2**: Done
